@@ -1,0 +1,54 @@
+.navul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #249087;
+}
+
+.navli {
+    float: left;
+    border-right:1px solid #bbb;
+    width: 10%;
+}
+
+.navli_tnanks {
+    float: right;
+    border-right:1px solid #bbb;
+    /*width: 10%;*/
+    font-weight: bold;
+}
+
+.navli_button{
+    border:1px solid black;
+    width: 40%;
+    /*float: left;*/
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+    padding: 0;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: green;
+}
+
+.navactive {
+    /*background-color: green;*/
+    color: black;
+    font-weight:bold;
+    text-decoration: underline;
+}
+
+
+

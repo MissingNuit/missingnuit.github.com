@@ -1,0 +1,37 @@
+
+.div0{
+background-color: #e9f9f8;
+border-bottom-style:dotted;
+border-width:thin;
+text-align:left;
+}
+
+.div1{
+	/*background-color: lightgrey;*/
+    margin-left: 30px;
+    margin-bottom:25px;
+    border-right-style:dotted;
+    border-width:thin;
+    float:left;
+    }
+
+.div2{
+    /*background-color: lightgrey;*/
+	/*text-align:center;*/
+    float:right;
+    margin-right:50px;
+    }
+
+.tezheng{
+		border:1px solid aquamarine;border-radius:10px; 
+	 	width:40px ;color:green; background-color:aquamarine ;
+	 	display:inline-block;text-align: center;
+}
+.pingmi{
+	border-width:thin; 
+	border-right-style:dotted;
+	border-left-style:dotted;
+}
+
+
+
